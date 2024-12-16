@@ -1,0 +1,31 @@
+{
+  "eventId": 1,
+  "eventName": "Debut Event",
+  "eventDate": "2024-08-01T22:06:30.953Z",
+  "venueDto": {
+    "venueId": 1,
+    "venueGuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "venueName": "The Signal",
+    "events": [
+      "Event 1"
+    ]
+  },
+  "eventArtistsDto": [
+    {
+      "eventArtistId": 1,
+      "eventId": 1,
+      "artistId": 1,
+      "event": "string",
+      "artistsDtos": [
+        {
+          "artistId": 1,
+          "artistGuid": "5fa35f64-5717-4562-b3fc-2c963f6axf36",
+          "artistName": "St Paul and the Broken Bones",
+          "eventArtists": [
+            "Event Artist 1?"
+          ]
+        }
+      ]
+    }
+  ]
+}

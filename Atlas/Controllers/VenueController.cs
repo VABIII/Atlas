@@ -9,7 +9,7 @@ using Atlas.Data;
 
 namespace Atlas.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class VenueController : ControllerBase
     {

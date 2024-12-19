@@ -14,7 +14,7 @@ using Atlas.Services.Events;
 
 namespace Atlas.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class EventsController : ControllerBase
     {

@@ -282,3 +282,13 @@ C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Microsoft.AspNetCore
 C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.RuntimeSupport.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\bin\Debug\net8.0\SnapshotRestore.Registry.dll
+C:\Users\Trey\Desktop\Weapon-X\Atlas\Atlas\obj\Debug\net8.0\Atlas.sourcelink.json

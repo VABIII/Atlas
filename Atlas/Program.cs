@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddDbContext<X23DbContext>(opts =>
 {
-    opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    opts.UseSqlServer(builder.Configuration.GetConnectionString("ProductionConnection"));
 });
 
 
@@ -30,6 +30,7 @@ builder.Services.AddCors(opts =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAWSLambdaHosting(LambdaEventSource.RestApi);
 
 var app = builder.Build();
 
